@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#23232b"/>
+  <rect x="24" y="24" width="752" height="452" fill="none" stroke="#c75c2e" stroke-opacity="0.35"/>
+  <text x="400" y="240" text-anchor="middle" fill="#f5f5f7" font-family="Arial,sans-serif" font-size="36">Фото объекта</text>
+  <text x="400" y="286" text-anchor="middle" fill="#c75c2e" font-family="monospace" font-size="16" letter-spacing="2">ASSETS / OBJECTS</text>
+</svg>

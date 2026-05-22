@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#23232b"/>
+  <rect x="30" y="30" width="1140" height="740" fill="none" stroke="#c75c2e" stroke-opacity="0.4"/>
+  <text x="600" y="390" text-anchor="middle" fill="#f5f5f7" font-family="Arial,sans-serif" font-size="54">Тематическая подборка</text>
+  <text x="600" y="455" text-anchor="middle" fill="#c75c2e" font-family="monospace" font-size="20" letter-spacing="3">COLLECTION COVER</text>
+</svg>

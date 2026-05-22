@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750">
+  <rect width="600" height="750" fill="#23232b"/>
+  <rect x="24" y="24" width="552" height="702" fill="none" stroke="#8a8a94"/>
+  <text x="300" y="360" text-anchor="middle" fill="#f5f5f7" font-family="Arial,sans-serif" font-size="38">Архивный материал</text>
+  <text x="300" y="410" text-anchor="middle" fill="#c75c2e" font-family="monospace" font-size="16" letter-spacing="2">ARCHIVE</text>
+</svg>
